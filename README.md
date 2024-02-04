@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.a44d6f2bfaf002b79fbf0b4805558585?rik=NMUXP5zfvbSeXw&riu=http%3a%2f%2fwww.ars-network.com%2fwp-content%2fuploads%2f2018%2f12%2fmobile-app-development.jpg&ehk=rak70D5Ppj6gFxJIhlIi6nW4itLjpogYEk%2bXBmV28UM%3d&risl=&pid=ImgRaw&r=0)
+![MasterHead](https://th.bing.com/th/id/R.a44d6f2bfaf002b79fbf0b4805558585?rik=NMUXP5zfvbSeXw&riu=http%3a%2f%2fwww.ars-network.com%2fwp-content%2fuploads%2f2018%2f12%2fmobile-app-development.jpg&ehk=rak70D5Ppj6gFxJIhlIi6nW4itLjpogYEk%2bXBmV28UM%3d&risl=&pid=ImgRaw&r=0)
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 
