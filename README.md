@@ -1,8 +1,8 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=pE1vK%2Frw&id=794F1BEAE21EFF5824015F9EB4BDDF9C3F17C534&thid=OIP.pE1vK_rwArefvwtIBVWFhQHaCg&mediaurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.a44d6f2bfaf002b79fbf0b4805558585%3Frik%3DNMUXP5zfvbSeXw%26riu%3Dhttp%253a%252f%252fwww.ars-network.com%252fwp-content%252fuploads%252f2018%252f12%252fmobile-app-development.jpg%26ehk%3Drak70D5Ppj6gFxJIhlIi6nW4itLjpogYEk%252bXBmV28UM%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&exph=650&expw=1920&q=mobile+application+development+banner&simid=608020808310654474&form=IRPRST&ck=4CFB4D8E086ED9DFC16BF10FBBF76E3B&selectedindex=35&itb=0&ajaxhist=0&ajaxserp=0&vt=0)]
+[![MasterHead](https://th.bing.com/th/id/R.a44d6f2bfaf002b79fbf0b4805558585?rik=NMUXP5zfvbSeXw&riu=http%3a%2f%2fwww.ars-network.com%2fwp-content%2fuploads%2f2018%2f12%2fmobile-app-development.jpg&ehk=rak70D5Ppj6gFxJIhlIi6nW4itLjpogYEk%2bXBmV28UM%3d&risl=&pid=ImgRaw&r=0)]
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=4fNBO%2fUD&id=6947F6B7BE31C0B9956BBE87CADE3E384F095CDC&thid=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&mediaurl=https%3a%2f%2fgranroyalleigarape.com.br%2fwp-content%2fuploads%2f2021%2f05%2fprogrammer.gif&exph=600&expw=800&q=Animated+coding+gif&simid=608044276000323653&FORM=IRPRST&ck=C350E31F75EC82DA743528530FB57E2A&selectedIndex=17&itb=0&ajaxhist=0&ajaxserp=0">
+<img align="right" alt="coding" width="400" src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-sbp3&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-sbp3" /> </p>
 
