@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit-sbp3&label=Profile%20views&color=0e75b6&style=flat" alt="rohit-sbp3" /> </p>
 
-- 🔭 I’m currently working on **Food Delivery Application**
+- 🔭 I’m currently working on **SpendWise Application**
 
 - 🌱 I’m currently learning **Flutter**
 
